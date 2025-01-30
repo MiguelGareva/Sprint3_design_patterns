@@ -19,7 +19,7 @@
 
 **<h3>#Descripción ejercicios:</h3>**
     **<h4>·Nivel1:</h4>**
-    · <a href="1.6.1_advanced_php_nivell1">#Ejercicio 1</a>: *"**<h3>Singleton</h3>**
+    · <a href="3.1.1_design_patterns_nivell1/">#Ejercicio 1</a>: *"**<h3>Singleton</h3>**
 Tens la següent definició de classe que pretén modelar al famós personatge de Tigger dels llibres "Winnie The Pooh" d'A A. Milne:
 
 Arxiu: tigger.php
@@ -43,4 +43,7 @@ Refactoritzar la classe Tigger en un Singleton considerant els següents punts:
 Defineix el mètode getInstance () que no tingui arguments. Aquesta funció és responsable de crear una instància de la classe Tigger només una vegada i tornar aquesta única instància cada vegada que es crida.
 Imprimeix en pantalla múltiples vegades el rugit de Tigger.
 Afegeix un mètode getCounter () que retorni el nombre de vegades que Tigger ha realitzat rugits."*<br>
+
+· <a href="3.1.2_design_patterns_nivell1/">#Ejercicio 2</a>: **<h3>Dependency Injection</h3>**
+*"Imagina que ets una persona que està a punt de sortir de casa per anar a estudiar/treballar. Abans de sortir de casa necessitaràs portar la cartera, les claus de casa, potser les claus del cotxe/moto o la targeta del transport públic, i l'smartphone.<br>Fes una programa que simuli aquesta lògica fent servir el patró d'injecció de dependències."*<br>
     
