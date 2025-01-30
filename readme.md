@@ -19,7 +19,7 @@
 
 **<h3>#Descripción ejercicios:</h3>**
     **<h4>·Nivel1:</h4>**
-    · <a href="1.6.1_advanced_php_nivell1">#Ejercicio 1</a>: *"Singleton
+    · <a href="1.6.1_advanced_php_nivell1">#Ejercicio 1</a>: *"**<h3>Singleton</h3>**
 Tens la següent definició de classe que pretén modelar al famós personatge de Tigger dels llibres "Winnie The Pooh" d'A A. Milne:
 
 Arxiu: tigger.php
