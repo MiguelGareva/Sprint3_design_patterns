@@ -2,7 +2,7 @@
 declare(strict_types=1);
 class Tigger{
 
-    private static Tigger $instance;
+    private static $instance;
     private int $rugidos = 0;
 
     private function __construct(){
@@ -12,7 +12,7 @@ class Tigger{
         echo "Grrrr!" . PHP_EOL;
         $this->rugidos++;
     }
-    public static function getInstance():?Tigger{
+    public static function getInstance(){
         if(self::$instance === null){
             self::$instance = new Tigger;
         }
