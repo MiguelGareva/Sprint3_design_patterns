@@ -12,6 +12,9 @@ class Persona{
 
     public function __construct(string $nombre){
         $this->nombre = $nombre;
+        $this->cartera = new Cartera;
+        $this->llaves = new Llaves;
+        $this->smartphone = new SmartPhone;
     }
 
     public function salir(){
